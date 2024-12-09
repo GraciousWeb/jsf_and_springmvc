@@ -1,0 +1,6 @@
+<faces-config xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+              version="2.3">
+    <lifecycle>
+        <phase-listener>com.example.jsf.listeners.LoggingPhaseListener</phase-listener>
+    </lifecycle>
+</faces-config>
